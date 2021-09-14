@@ -1,0 +1,5 @@
+{
+    "jwtPrivateKey":"",
+    "jwtRefreshKey":"",
+    "db":"mongodb://localhost/login"
+}
