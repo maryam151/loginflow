@@ -1,2 +1,2 @@
 # loginflow
-login flow repository for "mybook qatar".
+login flow repository for "Assignment".
